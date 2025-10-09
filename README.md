@@ -4,7 +4,7 @@
 - 🔭 **I’m currently working on:** 
 - 🌱 **I’m currently learning:** SpringBoot & AWS.
 - 🧠 Sharpening my problem-solving skills on [LeetCode](https://leetcode.com/yeshmant/)
-- 🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1v9vfY_A5cTZXLwfG4HiJcjJysk7fLoW9/view?usp=drive_link).
+- 🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1t3ejmKc-joYi4His5id8rsM2wniB6mUE/view?usp=drive_link).
 - 📫 **How to reach me:** Yeshmant@gmail.com
 - 🌐 Excited to share my personal [Portfolio](#) — launching soon! 🚀
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
